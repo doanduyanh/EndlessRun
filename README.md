@@ -12,16 +12,16 @@
 
 ## Features Implemented
 
-- [x] Automatic player movement
-- [/] Side-to-side controls
-- [x] Fixed side-scrolling camera
-- [x] Random obstacle spawning
-- [x] Player health and damage system
-- [x] Shooting and destroying obstacles
-- [x] Gun with ammo and reload mechanic
-- [x] Ragdoll on player death
-- [x] Increasing difficulty over time
-- [x] UI for Health, Score, and Ammo
+- ✅ Automatic player movement
+- ✅ Side-to-side controls
+- ✅ Fixed side-scrolling camera
+- ✅ Random obstacle spawning
+- ✅ Player health and damage system
+- ✅ Shooting and destroying obstacles
+- ✅ Gun with ammo and reload mechanic
+- ✅ Ragdoll on player death
+- ✅ Increasing difficulty over time
+- ✅ UI for Health, Score, and Ammo
 
 ## Architectural Decisions
 
