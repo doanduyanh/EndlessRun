@@ -13,7 +13,7 @@
 ## Features Implemented
 
 - [x] Automatic player movement
-- [x] Side-to-side controls
+- [/] Side-to-side controls
 - [x] Fixed side-scrolling camera
 - [x] Random obstacle spawning
 - [x] Player health and damage system
